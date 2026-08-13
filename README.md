@@ -43,9 +43,10 @@
 
 ### 🔬 Top Research & Technical Projects
 
-1. **[Efficient Transformer for 3D Medical Image Segmentation]**
-   - Modified TransUNet architecture replacing self-attention with **Dynamic Sparse Attention (DSA)**.
-   - Reduced memory usage and inference cost on 3D MRI data (**BraTS 2020** dataset) using PyTorch & CUDA.
+1. **[TransUNet-DSA-Segmentation](https://github.com/hadeel-ghalieah/TransUNet-DSA-Segmentation)**
+   - Modified the TransUNet architecture with **Directional/Spatial Attention (DSA)** for 3D brain tumor segmentation.
+   - Evaluated on the **BraTS2020** dataset using **PyTorch** and **CUDA**.
+   - Focused on improving segmentation performance while reducing computational and memory requirements.
 2. **[Vehicle Detection & Counting System]**
    - Built a vision system using **OpenCV**, **SIFT feature extraction**, and contour analysis for parking lot occupancy.
 3. **[PyTorch Workflow Optimization]**
