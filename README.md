@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Hi, I'm Hadeel Ghalieah 👋
-### Junior AI / Machine Learning Engineer — Computer Vision & Deep Learning
+### AI/ML Engineer | Computer Vision & Deep Learning | PyTorch | Medical Imaging | MSc CS Engineering
 📍 Marseille, France | 📧 hadeel.ghalieah@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/hadeel-ghalieah)
 
 ---
